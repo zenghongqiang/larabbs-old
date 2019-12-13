@@ -51,4 +51,3 @@
     </div>
 </div>
 @stop
-recent() 方法在数据模型基类 app/Models/Model.php 中定义，并且使用了 本
